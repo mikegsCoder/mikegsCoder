@@ -13,6 +13,8 @@
 
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Data-Structures-with-CSharp&show_owner=false)](https://github.com/mikegsCoder/Data-Structures-with-CSharp)
 
+[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Algorithms-with-CSharp&show_owner=false)](https://github.com/mikegsCoder/Algorithms-with-CSharp)
+
 **Languages**  
 <code><img height="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
 <code><img height="40" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400__480.png"></code>
