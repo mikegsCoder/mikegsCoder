@@ -1,4 +1,4 @@
-### Welcomee to my GitHub, I'm Mihail! 👋
+### Welcome to my GitHub, I'm Mihail! 👋
 
 <div>
   <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=mikegsCoder&count_private=true&true&hide=issues&show_icons=true" />
@@ -10,6 +10,8 @@
 
 ## My Repos ## 
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=SoftUni-CSharp-Main-Program&show_owner=false)](https://github.com/mikegsCoder/SoftUni-CSharp-Main-Program)
+
+[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Data-Structures-with-CSharp&show_owner=false)](https://github.com/mikegsCoder/Data-Structures-with-CSharp)
 
 **Languages**  
 <code><img height="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
