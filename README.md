@@ -27,8 +27,8 @@
 |<a href="https://softuni.bg/trainings/3343/csharp-advanced-may-2021"> C# Advanced </a>| <a href="https://softuni.bg/certificates/details/108643/f7e63eb9"> :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3344/csharp-oop-june-2021"> C# OOP </a>| <a href="https://softuni.bg/certificates/details/113008/f864a93e"> :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3416/fundamentals-in-mathematics-may-2021"> Fundamentals in Mathematics </a>| <a href="https://softuni.bg/certificates/details/107586/2e993b11"> :heavy_check_mark: Certificate</a> |
-|<a href="https://softuni.bg/trainings/3419/data-structures-fundamentals-with-csharp-june-2021"> Data Structures Fundamentals (with C#) </a>| <a href="https://softuni.bg/certificates/details/110022/4c3da5ad"> :heavy_check_mark: Certificate</a> |
-|<a href="https://softuni.bg/trainings/3420/data-structures-advanced-with-csharp-august-2021"> Data Structures Advanced (with C#) </a>| <a href="https://softuni.bg/certificates/details/113750/5a62579e"> :heavy_check_mark: Certificate</a> |
+|<a href="https://softuni.bg/trainings/3419/data-structures-fundamentals-with-csharp-june-2021"> Data Structures Fundamentals with C# </a>| <a href="https://softuni.bg/certificates/details/110022/4c3da5ad"> :heavy_check_mark: Certificate</a> |
+|<a href="https://softuni.bg/trainings/3420/data-structures-advanced-with-csharp-august-2021"> Data Structures Advanced with C# </a>| <a href="https://softuni.bg/certificates/details/113750/5a62579e"> :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3531/ms-sql-september-2021"> MS SQL Server </a>| <a href="https://softuni.bg/certificates/details/113982/bdfd10f0"> :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3492/entity-framework-core-october-2021"> Entity Framework Core </a>| <a href="https://softuni.bg/certificates/details/119011/23052f62">  :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3588/js-advanced-january-2022"> JS Advanced </a>| <a href="javascript:void(0)"> :hourglass_flowing_sand:  Coming soon!</a> |
