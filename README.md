@@ -5,7 +5,7 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikegsCoder&layout=compact" />
 </div>
 
-- 🌱 I’m currently studying Software Engineering with C# and Java Script in Software University [https://softuni.bg/]
+- 🌱 I’m currently studying Software Engineering with C# and Java Script at Software University [https://softuni.bg/]
 - 💌 Email: mikegsid@gmail.com
 
 ## My Repos ## 
