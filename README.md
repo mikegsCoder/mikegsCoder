@@ -33,7 +33,7 @@
 |<a href="https://softuni.bg/trainings/3492/entity-framework-core-october-2021"> Entity Framework Core </a>| <a href="https://softuni.bg/certificates/details/119011/23052f62">  :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3637/algorithms-fundamentals-with-c-sharp-december-2021"> Algorithms Fundamentals with C# </a>| <a href="https://softuni.bg/certificates/details/123077/f9e03b4a"> :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3638/algorithms-advanced-with-c-sharp-january-2022"> Algorithms Advanced with C# </a>| <a href="javascript:void(0)"> :hourglass_flowing_sand:  Coming soon!</a> |
-|<a href="https://softuni.bg/trainings/3588/js-advanced-january-2022"> JS Advanced </a>| <a href="javascript:void(0)"> :hourglass_flowing_sand:  Coming soon!</a> |
+|<a href="https://softuni.bg/trainings/3588/js-advanced-january-2022"> JS Advanced </a>| <a href="https://softuni.bg/users/profile/certificates?username=mikegs"> :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3589/js-applications-february-2022"> JS Applications </a>| <a href="javascript:void(0)"> :hourglass_flowing_sand:  Coming soon!</a> |
 
 <!--
