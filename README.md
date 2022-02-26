@@ -18,6 +18,7 @@
 <code><img height="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"></code>
 <code><img height="40" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/124446395/original/b68691adbfd454ea4173b4f213f9b7b11a5c426e/create-er-diagrams-develop-database-offer-tech-support.png"></code>
+<code><img height="40" src="https://www.fixedbuffer.com/wp-content/uploads/2018/09/EFCore.png"></code>
 <code><img height="40" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400__480.png"></code>
 
 |💻**Courses**|:scroll:| 
