@@ -1,4 +1,4 @@
-### Welcome to my GitHub, I'm Mihail! 👋
+## Welcome to my GitHub, I'm Mihail! 👋
 
 <div>
   <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=mikegsCoder&count_private=true&true&hide=issues&show_icons=true" />
