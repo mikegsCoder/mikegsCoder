@@ -8,7 +8,7 @@
 - 🌱 I’m currently studying Software Engineering with C# and Java Script at Software University [https://softuni.bg/]
 - 💌 Email: mikegsid@gmail.com
 
-## My resume as Single Page Application: ##
+## My resume as Single Page Application:
 
 ### :link: GitHub Pages Link: 
 :point_right:  https://mikegscoder.github.io/
