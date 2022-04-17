@@ -5,13 +5,9 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikegsCoder&layout=compact" />
 </div>
 
+- 📖 My resume as Single Page Application: :point_right: https://mikegscoder.github.io/
 - 🌱 I’m currently studying Software Engineering with C# and Java Script at Software University [https://softuni.bg/]
 - 💌 Email: mikegsid@gmail.com
-
-## My resume as Single Page Application:
-
-### :link: GitHub Pages Link: 
-:point_right:  https://mikegscoder.github.io/
 
 ## My Repos: ## 
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=SoftUni-CSharp-Main-Program&show_owner=false)](https://github.com/mikegsCoder/SoftUni-CSharp-Main-Program)
@@ -19,7 +15,7 @@
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Data-Structures-with-CSharp&show_owner=false)](https://github.com/mikegsCoder/Data-Structures-with-CSharp)
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Algorithms-with-CSharp&show_owner=false)](https://github.com/mikegsCoder/Algorithms-with-CSharp)
 
-**Technologies:**  
+** :hammer_and_wrench: Technologies and Tools:**  
 <code><img height="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"></code>
 <code><img height="40" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/124446395/original/b68691adbfd454ea4173b4f213f9b7b11a5c426e/create-er-diagrams-develop-database-offer-tech-support.png"></code>
