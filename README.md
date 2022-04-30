@@ -5,7 +5,7 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikegsCoder&layout=compact" />
 </div>
 
-- 📖 My resume as Single Page Application: :point_right: [https://mikegscoder.github.io/]
+- 📝 My resume as Single Page Application: 👉 [https://mikegscoder.github.io/]
 - 🌱 I’m currently studying Software Engineering with C# and JavaScript at Software University [https://softuni.bg/]
 - 💌 Email: [mikegsid@gmail.com]
 
@@ -23,7 +23,7 @@
 <code><img height="40" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400__480.png"></code>
 <code><img height="40" src="https://seeklogo.com/images/M/mocha-logo-66DA231220-seeklogo.com.png"></code>
 
-|💻**Courses**|:scroll:| 
+|💻 **Courses**|:scroll:| 
 |---|---|
 |<a href="https://softuni.bg/trainings/3062/programming-basics-with-c-sharp-september-2020" > Programming Basics </a>   | <a href="https://softuni.bg/certificates/details/89036/928fda17"> :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3213/csharp-fundamentals-january-2021"> C# Fundamentals </a>| <a href="https://softuni.bg/certificates/details/103576/f626985a"> :heavy_check_mark: Certificate</a> |
