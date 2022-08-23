@@ -24,6 +24,7 @@
 <code><img height="40" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400__480.png"></code>
 <code><img height="40" src="https://seeklogo.com/images/M/mocha-logo-66DA231220-seeklogo.com.png"></code>
 <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTnlf8RZSA2jnQPDUql_UmSztuFLmp8U6h2A&usqp=CAU"></code>
+<code><img height="40" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"></code>
 
 |💻 **Courses**|:scroll:| 
 |---|---|
