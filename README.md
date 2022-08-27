@@ -7,7 +7,7 @@
 
 - 📝 My resume as Single Page Application: 👉 [https://mikegscoder.github.io/]
 - 🌱 I’m currently studying Software Engineering with C# and JavaScript at Software University [https://softuni.bg/]
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/mihail-sidov-7a334b24a/">Mihail Sidov</a>
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/mihail-sidov-7a334b24a/">[Mihail Sidov]</a>
 - 💌 Email: [mikegsid@gmail.com]
 
 ## My Repos: ## 
