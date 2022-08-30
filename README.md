@@ -44,8 +44,8 @@
 |<a href="https://softuni.bg/trainings/3589/js-applications-february-2022"> JS Applications </a>| <a href="https://softuni.bg/certificates/details/130507/8da297c6"> :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3726/html-and-css-may-2022"> HTML & CSS </a>| <a href="https://softuni.bg/certificates/details/136945/49d8d54c">  :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3727/reactjs-june-2022"> ReactJS </a>| <a href="https://softuni.bg/certificates/details/140622/14fe73c6">  :heavy_check_mark: Certificate</a> |
-|<a href="https://softuni.bg/trainings/3853/csharp-web-basics-basics-september-2022"> C# Web Basics </a>| <a href="javascript:void(0)">  :hourglass_flowing_sand: Coming soon!</a> |
-|<a href="https://softuni.bg/trainings/3854/asp-dot-net-core-october-2022"> ASP.NET Core </a>| <a href="javascript:void(0)"> :hourglass_flowing_sand:  Coming soon!</a> |
+|<a href="https://softuni.bg/trainings/3853/asp-net-fundamentals-september-2022"> ASP.NET Fundamentals </a>| <a href="javascript:void(0)">  :hourglass_flowing_sand: Coming soon!</a> |
+|<a href="https://softuni.bg/trainings/3854/asp-net-advanced-october-2022"> ASP.NET Advanced </a>| <a href="javascript:void(0)"> :hourglass_flowing_sand:  Coming soon!</a> |
 
 <!--
 **mikegsCoder/mikegsCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
