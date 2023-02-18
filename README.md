@@ -33,7 +33,7 @@
 <code><img height="40" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"></code>
 
 <table>
-<tr><th>SoftUni Courses </th><th>Self Education Courses</th></tr>
+<tr><th>SoftUni Courses:</th><th>Self Education Courses:</th></tr>
 <tr><td>
 
 |💻 **Courses**|:scroll:| 
@@ -56,7 +56,7 @@
 |<a href="https://softuni.bg/trainings/3853/asp-net-fundamentals-september-2022"> ASP.NET Fundamentals </a>| <a href="https://softuni.bg/certificates/details/146563/519ce2b2">  :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3854/asp-net-advanced-october-2022"> ASP.NET Advanced </a>| <a href="https://softuni.bg/certificates/details/152310/35110173"> :heavy_check_mark: Certificate</a> |
 
-</td><td align="top">
+</td><td align-content="top">
 
 |💻 **Courses**|:scroll:| 
 |---|---|
