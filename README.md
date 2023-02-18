@@ -32,6 +32,10 @@
 <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTnlf8RZSA2jnQPDUql_UmSztuFLmp8U6h2A&usqp=CAU"></code>
 <code><img height="40" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"></code>
 
+<table>
+<tr><th>SoftUni Courses </th><th>Self education</th></tr>
+<tr><td>
+
 |💻 **Courses**|:scroll:| 
 |---|---|
 |<a href="https://softuni.bg/trainings/3062/programming-basics-with-c-sharp-september-2020" > Programming Basics </a>   | <a href="https://softuni.bg/certificates/details/89036/928fda17"> :heavy_check_mark: Certificate</a> |
@@ -51,6 +55,14 @@
 |<a href="https://softuni.bg/trainings/3727/reactjs-june-2022"> ReactJS </a>| <a href="https://softuni.bg/certificates/details/140622/14fe73c6">  :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3853/asp-net-fundamentals-september-2022"> ASP.NET Fundamentals </a>| <a href="https://softuni.bg/certificates/details/146563/519ce2b2">  :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3854/asp-net-advanced-october-2022"> ASP.NET Advanced </a>| <a href="https://softuni.bg/certificates/details/152310/35110173"> :heavy_check_mark: Certificate</a> |
+
+</td><td>
+
+|💻 **Courses**|:scroll:| 
+|---|---|
+|<a href="https://softuni.bg/trainings/3357/js-back-end-may-2021" > JS Back-End </a>   | <a href="javascript:void(0)">  :hourglass_flowing_sand: Coming soon!</a> |
+
+</td></tr> </table>
 
 <!-- |<a href="https://softuni.bg/trainings/3854/asp-net-advanced-october-2022"> ASP.NET Advanced </a>| <a href="javascript:void(0)"> :hourglass_flowing_sand:  Coming soon!</a> | -->
 
