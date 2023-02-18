@@ -1,4 +1,8 @@
-## Welcome to my GitHub, I'm Mihail! 👋
+<p align="center">
+<a href="https://github.com/mikegsCoder">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A3BD2&width=800&lines=Mihail+Sidov;Software+Engineer+%7C+C%23+Full-Stack+Developer;C%23+%7C+.NET+%7C+MS-SQL+%7C+EF-Core+%7C+ASP.NET+%7C+JS+%7C+ReactJS+%7C+HTML+%7C+CSS" alt="Typing SVG" />
+</a>
+<br/>
 
 <div>
   <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=mikegsCoder&count_private=true&true&hide=issues&show_icons=true" />
