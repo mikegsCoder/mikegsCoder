@@ -56,11 +56,27 @@
 |<a href="https://softuni.bg/trainings/3853/asp-net-fundamentals-september-2022"> ASP.NET Fundamentals </a>| <a href="https://softuni.bg/certificates/details/146563/519ce2b2">  :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3854/asp-net-advanced-october-2022"> ASP.NET Advanced </a>| <a href="https://softuni.bg/certificates/details/152310/35110173"> :heavy_check_mark: Certificate</a> |
 
-</td><td style="vertical-align: top;">
+</td><td>
 
 |💻 **Courses**|:scroll:| 
 |---|---|
-|<a href="https://softuni.bg/trainings/3357/js-back-end-may-2021" > JS Back-End </a>   | <a href="javascript:void(0)">  :hourglass_flowing_sand: Coming soon!</a> |
+|<a href="javascript:void(0)" > JS Back-End </a>   | <a href="javascript:void(0)">  :hourglass_flowing_sand: Coming soon!</a> |
+|<a href="javascript:void(0)" ></a>   | <a href="javascript:void(0)"></a> |
+|<a href="javascript:void(0)" ></a>   | <a href="javascript:void(0)"></a> |
+|<a href="javascript:void(0)" ></a>   | <a href="javascript:void(0)"></a> |
+|<a href="javascript:void(0)" ></a>   | <a href="javascript:void(0)"></a> |
+|<a href="javascript:void(0)" ></a>   | <a href="javascript:void(0)"></a> |
+|<a href="javascript:void(0)" ></a>   | <a href="javascript:void(0)"></a> |
+|<a href="javascript:void(0)" ></a>   | <a href="javascript:void(0)"></a> |
+|<a href="javascript:void(0)" ></a>   | <a href="javascript:void(0)"></a> |
+|<a href="javascript:void(0)" ></a>   | <a href="javascript:void(0)"></a> |
+|<a href="javascript:void(0)" ></a>   | <a href="javascript:void(0)"></a> |
+|<a href="javascript:void(0)" ></a>   | <a href="javascript:void(0)"></a> |
+|<a href="javascript:void(0)" ></a>   | <a href="javascript:void(0)"></a> |
+|<a href="javascript:void(0)" ></a>   | <a href="javascript:void(0)"></a> |
+|<a href="javascript:void(0)" ></a>   | <a href="javascript:void(0)"></a> |
+|<a href="javascript:void(0)" ></a>   | <a href="javascript:void(0)"></a> |
+|<a href="javascript:void(0)" ></a>   | <a href="javascript:void(0)"></a> |
 
 </td></tr> </table>
 
