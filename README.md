@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/mikegsCoder">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A3BD2&width=800&lines=Mihail+Sidov;Software+Engineer+%7C+C%23+Full-Stack+Developer;C%23+%7C+.NET+%7C+MS-SQL+%7C+EF-Core+%7C+ASP.NET+%7C+JS+%7C+ReactJS+%7C+HTML+%7C+CSS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=18&pause=200&color=2A3BD2&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Mihail+Sidov;Software+Engineer+%7C+C%23+Full-Stack+Developer;C%23+%7C+.NET+%7C+MS-SQL+%7C+EF-Core+%7C+ASP.NET+%7C+JS+%7C+ReactJS+%7C+HTML+%7C+CSS" alt="Typing SVG" />
 </a>
 <br/>
 
