@@ -56,7 +56,7 @@
 |<a href="https://softuni.bg/trainings/3853/asp-net-fundamentals-september-2022"> ASP.NET Fundamentals </a>| <a href="https://softuni.bg/certificates/details/146563/519ce2b2">  :heavy_check_mark: Certificate</a> |
 |<a href="https://softuni.bg/trainings/3854/asp-net-advanced-october-2022"> ASP.NET Advanced </a>| <a href="https://softuni.bg/certificates/details/152310/35110173"> :heavy_check_mark: Certificate</a> |
 
-</td><td align-content="top">
+</td><td style="vertical-align: top;">
 
 |💻 **Courses**|:scroll:| 
 |---|---|
