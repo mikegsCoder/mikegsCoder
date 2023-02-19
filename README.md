@@ -37,6 +37,8 @@ https://emojii.org/  -->
 <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTnlf8RZSA2jnQPDUql_UmSztuFLmp8U6h2A&usqp=CAU"></code>
 <code><img height="40" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"></code>
 
+## 📚 Education: ##
+
 <table>
 <tr><th>SoftUni Courses:</th><th>Self Education Courses:</th></tr>
 <tr><td>
