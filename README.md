@@ -66,22 +66,22 @@ https://emojii.org/  -->
 |💻 **Courses**|:scroll:| 
 |---|:---:|
 |<a href="javascript:void(0)" >💡 JS Back-End</a>   | <a href="javascript:void(0)">  :hourglass_flowing_sand: Coming soon!</a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕐</a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕜</a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕙</a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕥</a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕚</a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕦</a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕛</a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕧</a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕑</a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕝</a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕒</a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕞</a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕓</a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕟</a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕔</a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕖</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 👉 📅 ❔</a>   | <a href="javascript:void(0)">🕐</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 👉 📅 ❕</a>   | <a href="javascript:void(0)">🕜</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 👉 📅 ❔</a>   | <a href="javascript:void(0)">🕙</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 👉 📅 ❕</a>   | <a href="javascript:void(0)">🕥</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 👉 📅 ❔</a>   | <a href="javascript:void(0)">🕚</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 👉 📅 ❕</a>   | <a href="javascript:void(0)">🕦</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 👉 📅 ❔</a>   | <a href="javascript:void(0)">🕛</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 👉 📅 ❕</a>   | <a href="javascript:void(0)">🕧</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 👉 📅 ❔</a>   | <a href="javascript:void(0)">🕑</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 👉 📅 ❕</a>   | <a href="javascript:void(0)">🕝</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 👉 📅 ❔</a>   | <a href="javascript:void(0)">🕒</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 👉 📅 ❕</a>   | <a href="javascript:void(0)">🕞</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 👉 📅 ❔</a>   | <a href="javascript:void(0)">🕓</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 👉 📅 ❕</a>   | <a href="javascript:void(0)">🕟</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 👉 📅 ❔</a>   | <a href="javascript:void(0)">🕔</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 👉 📅 ❕</a>   | <a href="javascript:void(0)">🕖</a> |
 
 </td></tr> </table>
 
