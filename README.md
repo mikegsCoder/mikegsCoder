@@ -13,6 +13,8 @@ https://emojii.org/  -->
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikegsCoder&layout=compact" />
 </div>
 
+## ℹ️ Personal information: ##
+
 - 📝 My resume as Single Page Application: 👉 [https://mikegscoder.github.io/].
 - 🎓 I completed my education in Software Engineering with C# and JavaScript at Software University [https://softuni.bg/].
 - 👓 I am looking for my new job as a software developer.
