@@ -13,11 +13,11 @@ https://emojii.org/  -->
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikegsCoder&layout=compact" />
 </div>
 
-- 📝 My resume as Single Page Application: 👉 [https://mikegscoder.github.io/]
-- 🎓 I completed my education in Software Engineering with C# and JavaScript at Software University [https://softuni.bg/]
+- 📝 My resume as Single Page Application: 👉 [https://mikegscoder.github.io/].
+- 🎓 I completed my education in Software Engineering with C# and JavaScript at Software University [https://softuni.bg/].
 - 👓 I am looking for my new job as a software developer.
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/mihail-sidov-7a334b24a/">[Mihail Sidov]</a>
-- 📩 Email: [mikegsid@gmail.com]
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/mihail-sidov-7a334b24a/">[Mihail Sidov]</a>.
+- 📩 Email: [mikegsid@gmail.com].
 
 ## My Repos: ## 
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=SoftUni-CSharp-Main-Program&show_owner=false)](https://github.com/mikegsCoder/SoftUni-CSharp-Main-Program)
@@ -64,24 +64,24 @@ https://emojii.org/  -->
 </td><td>
 
 |💻 **Courses**|:scroll:| 
-|---|---|
+|---|:---:|
 |<a href="javascript:void(0)" >💡 JS Back-End</a>   | <a href="javascript:void(0)">  :hourglass_flowing_sand: Coming soon!</a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)"></a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)"></a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)"></a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)"></a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)"></a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)"></a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)"></a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)"></a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)"></a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)"></a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)"></a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)"></a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)"></a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)"></a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)"></a> |
-|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)"></a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕐</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕜</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕙</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕥</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕚</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕦</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕛</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕧</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕑</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕝</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕒</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕞</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕓</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕟</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕔</a> |
+|<a href="javascript:void(0)" >📚 Coming soon ... 📅</a>   | <a href="javascript:void(0)">🕖</a> |
 
 </td></tr> </table>
 
