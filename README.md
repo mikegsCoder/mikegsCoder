@@ -1,12 +1,12 @@
+<!-- https://readme-typing-svg.demolab.com/demo/
+https://gist.github.com/rxaviers/7360908
+https://emojii.org/  -->
+
 <p align="center">
 <a href="https://github.com/mikegsCoder">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=18&pause=200&color=2B63D2&vCenter=true&multiline=true&width=800&height=90&lines=Mihail+Sidov;Software+Engineer+%7C+C%23+Full-Stack+Developer;C%23+%7C+.NET+%7C+MS-SQL+%7C+EF-Core+%7C+ASP.NET+%7C+JS+%7C+ReactJS+%7C+HTML+%7C+CSS" alt="Typing SVG" />
 </a>
 <br/>
-
-<!-- https://readme-typing-svg.demolab.com/demo/
-https://gist.github.com/rxaviers/7360908
-https://emojii.org/  -->
 
 <div>
   <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=mikegsCoder&count_private=true&true&hide=issues&show_icons=true" />
@@ -16,7 +16,7 @@ https://emojii.org/  -->
 - 📝 My resume as Single Page Application: 👉 [https://mikegscoder.github.io/].
 - 🎓 I completed my education in Software Engineering with C# and JavaScript at Software University [https://softuni.bg/].
 - 👓 I am looking for my new job as a software developer.
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/mihail-sidov-7a334b24a/">[Mihail Sidov]</a>.
+- 💼 LinkedIn: [<a href="https://www.linkedin.com/in/mihail-sidov-7a334b24a/">Mihail Sidov</a>].
 - 📩 Email: [mikegsid@gmail.com].
 
 ## My Repos: ## 
@@ -86,20 +86,3 @@ https://emojii.org/  -->
 </td></tr> </table>
 
 <!-- |<a href="https://softuni.bg/trainings/3854/asp-net-advanced-october-2022"> ASP.NET Advanced </a>| <a href="javascript:void(0)"> :hourglass_flowing_sand:  Coming soon!</a> | -->
-
-<!--
-**mikegsCoder/mikegsCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-|<a href="https://softuni.bg/trainings/3726/html-and-css-may-2022"> HTML & CSS </a>| <a href="javascript:void(0)">  :hourglass_flowing_sand: Coming soon!</a> |
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
