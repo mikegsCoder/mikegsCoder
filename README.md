@@ -19,7 +19,7 @@ https://emojii.org/  -->
 - 💼 LinkedIn: [<a href="https://www.linkedin.com/in/mihail-sidov-7a334b24a/">Mihail Sidov</a>].
 - 📩 Email: [mikegsid@gmail.com].
 
-## My Repos: ## 
+## 💻 My Repos: ## 
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=SoftUni-CSharp-Main-Program&show_owner=false)](https://github.com/mikegsCoder/SoftUni-CSharp-Main-Program)
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=SoftUni-JavaScript-and-Front-End-Courses&show_owner=false)](https://github.com/mikegsCoder/SoftUni-JavaScript-and-Front-End-Courses)
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Data-Structures-with-CSharp&show_owner=false)](https://github.com/mikegsCoder/Data-Structures-with-CSharp)
