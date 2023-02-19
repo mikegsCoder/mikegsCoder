@@ -12,9 +12,10 @@
 </div>
 
 - 📝 My resume as Single Page Application: 👉 [https://mikegscoder.github.io/]
-- 🌱 I completed my education in Software Engineering with C# and JavaScript at Software University [https://softuni.bg/] and I am looking for my new job as a software developer.
+- 🎓 I completed my education in Software Engineering with C# and JavaScript at Software University [https://softuni.bg/]
+- 👓 I am looking for my new job as a software developer.
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/mihail-sidov-7a334b24a/">[Mihail Sidov]</a>
-- 💌 Email: [mikegsid@gmail.com]
+- 📩 Email: [mikegsid@gmail.com]
 
 ## My Repos: ## 
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=SoftUni-CSharp-Main-Program&show_owner=false)](https://github.com/mikegsCoder/SoftUni-CSharp-Main-Program)
