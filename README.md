@@ -90,9 +90,13 @@ https://emojii.org/  -->
 
 </td></tr> </table>
 
+<!-- |<a href="https://softuni.bg/trainings/3854/asp-net-advanced-october-2022"> ASP.NET Advanced </a>| <a href="javascript:void(0)"> :hourglass_flowing_sand:  Coming soon!</a> | -->
+
 ## 🎓 Diplomas: ##
 
 - 📜 C# Web Developer 👉 [<a href="https://softuni.bg/certificates/details/153472/e10a1751">Diploma</a>].
 - 📜 C# Full-Stack Developer 👉 [<a href="https://softuni.bg/certificates/details/153420/65aa8f2a">Diploma</a>].
 
-<!-- |<a href="https://softuni.bg/trainings/3854/asp-net-advanced-october-2022"> ASP.NET Advanced </a>| <a href="javascript:void(0)"> :hourglass_flowing_sand:  Coming soon!</a> | -->
+## 🌐 Exams and Workshops on the Web: ##
+
+- ☑️ JS Applications Exam 👉 [<a href="https://mikegscoder.github.io/exams/petCare">Pet Care</a>].
