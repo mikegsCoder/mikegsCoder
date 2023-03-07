@@ -70,7 +70,7 @@ https://emojii.org/  -->
 
 |💻 **Courses**|:scroll:| 
 |---|:---:|
-| <a href="javascript:void(0)" >💡 JS Back-End</a> | <a href="javascript:void(0)">⏳ Coming soon!</a> |
+| <a href="javascript:void(0)" >💡 Windows Presentation Foundation</a> | <a href="javascript:void(0)">⏳ Coming soon!</a> |
 | <a href="javascript:void(0)" >📕 ⌨ ☕ Coming soon ... 👉 📅 ❔</a> | <a href="javascript:void(0)">🕐</a> |
 | <a href="javascript:void(0)" >📗 ⌨ ☕ Coming soon ... 👉 📅 ❔</a> | <a href="javascript:void(0)">🕜</a> |
 | <a href="javascript:void(0)" >📙 ⌨ ☕ Coming soon ... 👉 📅 ❔</a> | <a href="javascript:void(0)">🕙</a> |
