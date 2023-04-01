@@ -21,9 +21,7 @@ https://emojii.org/  -->
 - 👓 I am looking for my new job as a software developer.
 <!-- - 💼 LinkedIn: [<a href="https://www.linkedin.com/in/mihail-sidov-7a334b24a/">Mihail Sidov</a>]. -->
 - 💼 LinkedIn: 
-    <a href="www.linkedin.com/in/mihail-sidov-7a334b24a/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" width="auto" height="auto"/>
-    </a>
+    <a href="www.linkedin.com/in/mihail-sidov-7a334b24a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" width="auto" height="auto"/></a>
 - 📩 Email: [mikegsid@gmail.com].
 
 ## 💻 My Repos: ## 
