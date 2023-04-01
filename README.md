@@ -19,7 +19,11 @@ https://emojii.org/  -->
 - 📝 My resume as Single Page Application: 👉 [https://mikegscoder.github.io/].
 - 🎓 I completed my education in Software Engineering with C# and JavaScript at Software University [https://softuni.bg/].
 - 👓 I am looking for my new job as a software developer.
-- 💼 LinkedIn: [<a href="https://www.linkedin.com/in/mihail-sidov-7a334b24a/">Mihail Sidov</a>].
+<!-- - 💼 LinkedIn: [<a href="https://www.linkedin.com/in/mihail-sidov-7a334b24a/">Mihail Sidov</a>]. -->
+- 💼 LinkedIn: 
+    <a href="www.linkedin.com/in/mihail-sidov-7a334b24a/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" width="auto" height="auto"/>
+    </a>
 - 📩 Email: [mikegsid@gmail.com].
 
 ## 💻 My Repos: ## 
@@ -111,7 +115,7 @@ https://www.svgrepo.com/ -->
 
 </td></tr> </table>
 
-<!-- |<a href="https://softuni.bg/trainings/3854/asp-net-advanced-october-2022"> ASP.NET Advanced </a>| <a href="javascript:void(0)"> :hourglass_flowing_sand:  Coming soon!</a> | -->
+<!-- | <a href="https://github.com/mikegsCoder/Self-Education/tree/main/WPF">Windows Presentation Foundation</a> | <a href="javascript:void(0)"> :hourglass_flowing_sand:  Coming soon!</a> | -->
 
 ## 🎓 Diplomas: ##
 
