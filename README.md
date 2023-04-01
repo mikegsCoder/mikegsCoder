@@ -137,3 +137,4 @@ https://www.svgrepo.com/ -->
 ## 🌐 Exams and Workshops on the Web: ##
 
 - ☑️ JS Applications Exam 👉 [<a href="https://mikegscoder.github.io/exams/petCare">Pet Care</a>].
+- ☑️ ASP.NET Fundamentals Exam 👉 [<a href="http://mikegscoderasp-001-site2.atempurl.com/">Book Library</a>].
