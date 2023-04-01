@@ -4,17 +4,17 @@ https://emojii.org/  -->
 
 <p align="center">
     <a href="https://github.com/mikegsCoder">
-        <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=18&pause=200&color=2B63D2&vCenter=true&multiline=true&width=670&    height=90&lines=Mihail+Sidov;Software+Engineer+%7C+C%23+Full-Stack+Developer;C%23+%7C+.NET+%7C+MS-SQL+%7C+EF-Core+%7C+ASP.NET+%7C+JS+%7C    +ReactJS+%7C+HTML+%7C+CSS" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=18&pause=200&color=2B63D2&vCenter=true&multiline=true&width=670&height=90&lines=Mihail+Sidov;Software+Engineer+%7C+C%23+Full-Stack+Developer;C%23+%7C+.NET+%7C+MS-SQL+%7C+EF-Core+%7C+ASP.NET+%7C+JS+%7C+ReactJS+%7C+HTML+%7C+CSS" alt="Typing SVG" />
         <img src="https://schwabencode.com/contents/logos/dotnet-robot-250px.png" alt="Robot" title=".NET Robot" width="100" height="100" />
     </a>
 <br/>
 
 <div>
   <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=mikegsCoder&count_private=true&true&hide=issues&show_icons=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikegsCoder&layout=compact" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikegsCoder&layout=compact" style="margin-left: 0.5rem;" />
 </div>
 
-<p align="left">
+<p align="left" style="margin-top: 0.5rem;">
     <a href="https://mikegscoder.github.io/">
         <img src="https://img.shields.io/badge/My Resume-mikegscoder.github.io-red?style=plastic" width="auto" height="20px">
     </a>
