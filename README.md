@@ -3,10 +3,10 @@ https://gist.github.com/rxaviers/7360908
 https://emojii.org/  -->
 
 <p align="center">
-<a href="https://github.com/mikegsCoder">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=18&pause=200&color=2B63D2&vCenter=true&multiline=true&width=670&height=90&lines=Mihail+Sidov;Software+Engineer+%7C+C%23+Full-Stack+Developer;C%23+%7C+.NET+%7C+MS-SQL+%7C+EF-Core+%7C+ASP.NET+%7C+JS+%7C+ReactJS+%7C+HTML+%7C+CSS" alt="Typing SVG" />
-    <img src="https://schwabencode.com/contents/logos/dotnet-robot-250px.png" alt="Robot" title=".NET Robot" width="100" height="100" />
-</a>
+    <a href="https://github.com/mikegsCoder">
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=18&pause=200&color=2B63D2&vCenter=true&multiline=true&width=670&    height=90&lines=Mihail+Sidov;Software+Engineer+%7C+C%23+Full-Stack+Developer;C%23+%7C+.NET+%7C+MS-SQL+%7C+EF-Core+%7C+ASP.NET+%7C+JS+%7C    +ReactJS+%7C+HTML+%7C+CSS" alt="Typing SVG" />
+        <img src="https://schwabencode.com/contents/logos/dotnet-robot-250px.png" alt="Robot" title=".NET Robot" width="100" height="100" />
+    </a>
 <br/>
 
 <div>
@@ -14,15 +14,29 @@ https://emojii.org/  -->
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikegsCoder&layout=compact" />
 </div>
 
+<p align="left">
+    <a href="https://mikegscoder.github.io/">
+        <img src="https://img.shields.io/badge/My Resume-mikegscoder.github.io-red?style=plastic" width="auto" height="20px">
+    </a>
+    <a href="https://www.linkedin.com/in/mihail-sidov-7a334b24a/" target="_blank" >
+        <img src="https://img.shields.io/badge/-LinkedIn-0e76a8? style=plastic&logo=Linkedin&logoColor=white" width="auto" height="20px" margin-top="10px"/>
+    </a>
+    <a href="mailto:mikegsid@gmail.com">
+        <img src="https://img.shields.io/badge/-mikegsid@gmail.com-blue?style=plastic&logo=gmail&logoColor=white" width="auto" height="20px">
+    </a>
+    <a href="https://softuni.bg/certificates/details/153472/e10a1751">
+        <img src="https://img.shields.io/badge/📜-Web Developer-important?style=plastic" width="auto" height="20px">
+    </a>
+    <a href="https://softuni.bg/certificates/details/153420/65aa8f2a">
+        <img src="https://img.shields.io/badge/📜-Full Stack Developer-important?style=plastic" width="auto" height="20px">
+    </a>
+</p>
+
 ## ℹ️ Personal information: ##
 
 - 📝 My resume as Single Page Application: 👉 [https://mikegscoder.github.io/].
 - 🎓 I completed my education in Software Engineering with C# and JavaScript at Software University [https://softuni.bg/].
 - 👓 I am looking for my new job as a software developer.
-<!-- - 💼 LinkedIn: [<a href="https://www.linkedin.com/in/mihail-sidov-7a334b24a/">Mihail Sidov</a>]. -->
-- 💼 LinkedIn: 
-    <a href="www.linkedin.com/in/mihail-sidov-7a334b24a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" width="auto" height="auto"/></a>
-- 📩 Email: [mikegsid@gmail.com].
 
 ## 💻 My Repos: ## 
 
@@ -39,28 +53,28 @@ https://emojii.org/  -->
 https://www.svgrepo.com/ -->
 
 <p align="left">
-<!-- C# -->
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<!-- .NET -->
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-<!-- SQL Server -->
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-<!-- EF Core -->
-<a href="https://learn.microsoft.com/en-us/ef/core" target="_blank" rel="noreferrer"> <img src="https://www.fixedbuffer.com/wp-content/uploads/2018/09/EFCore.png" alt="efcore" width="40" height="40"/> </a>
-<!-- Git -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<!-- Postman -->
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<!-- JS -->
-<code></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></code>
-<!-- Mocha -->
-<a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
-<!-- HTML -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<!-- CSS -->
-<a href="https://www.w3schools.com/Css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> </a>
-<!-- ReactJS -->
-</a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/> </a>
+    <!-- C# -->
+    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/  icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+    <!-- .NET -->
+    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/  icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
+    <!-- SQL Server -->
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/   microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+    <!-- EF Core -->
+    <a href="https://learn.microsoft.com/en-us/ef/core" target="_blank" rel="noreferrer"> <img src="https://www.fixedbuffer.com/wp-content/uploads/ 2018/09/EFCore.png" alt="efcore" width="40" height="40"/> </a>
+    <!-- Git -->
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"    width="40" height="40"/> </a>
+    <!-- Postman -->
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"     alt="postman" width="40" height="40"/> </a>
+    <!-- JS -->
+    <code></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.   githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></code>
+    <!-- Mocha -->
+    <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha"   width="40" height="40"/> </a>
+    <!-- HTML -->
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+    <!-- CSS -->
+    <a href="https://www.w3schools.com/Css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/ icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> </a>
+    <!-- ReactJS -->
+    </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/    react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/> </a>
 </p>
 
 ## 📚 Education: ##
