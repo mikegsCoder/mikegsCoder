@@ -33,6 +33,9 @@ https://emojii.org/  -->
 
 ## :hammer_and_wrench: Technologies and Tools: ##  
 
+<!-- https://github.com/devicons
+https://www.svgrepo.com/ -->
+
 <p align="left">
 <!-- C# -->
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
@@ -54,8 +57,8 @@ https://emojii.org/  -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <!-- CSS -->
 <a href="https://www.w3schools.com/Css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> </a>
-<!-- React -->
-</a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<!-- ReactJS -->
+</a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/> </a>
 </p>
 
 ## 📚 Education: ##
@@ -88,7 +91,7 @@ https://emojii.org/  -->
 
 |💻 **Courses**|:scroll:| 
 |---|:---:|
-| <a href="javascript:void(0)" >Windows Presentation Foundation</a> | <a href="javascript:void(0)">⏳ Coming soon!</a> |
+| <a href="https://github.com/mikegsCoder/Self-Education/WPF">Windows Presentation Foundation</a> | <a href="javascript:void(0)">⏳ Coming soon!</a> |
 | <a href="javascript:void(0)" >📕 ⌨ ☕ Coming soon ... 👉 📅 ❔</a> | <a href="javascript:void(0)">🕐</a> |
 | <a href="javascript:void(0)" >📗 ⌨ ☕ Coming soon ... 👉 📅 ❔</a> | <a href="javascript:void(0)">🕜</a> |
 | <a href="javascript:void(0)" >📙 ⌨ ☕ Coming soon ... 👉 📅 ❔</a> | <a href="javascript:void(0)">🕙</a> |
