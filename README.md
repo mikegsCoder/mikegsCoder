@@ -129,10 +129,10 @@ https://www.svgrepo.com/ -->
 
 <!-- | <a href="https://github.com/mikegsCoder/Self-Education/tree/main/WPF">Windows Presentation Foundation</a> | <a href="javascript:void(0)"> :hourglass_flowing_sand:  Coming soon!</a> | -->
 
-## 🎓 Diplomas: ##
+<!-- ## 🎓 Diplomas: ##
 
 - 📜 C# Web Developer 👉 [<a href="https://softuni.bg/certificates/details/153472/e10a1751">Diploma</a>].
-- 📜 C# Full-Stack Developer 👉 [<a href="https://softuni.bg/certificates/details/153420/65aa8f2a">Diploma</a>].
+- 📜 C# Full-Stack Developer 👉 [<a href="https://softuni.bg/certificates/details/153420/65aa8f2a">Diploma</a>]. -->
 
 ## 🌐 Exams and Workshops on the Web: ##
 
