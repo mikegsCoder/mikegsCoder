@@ -4,19 +4,23 @@ https://emojii.org/  -->
 
 <p align="center">
     <a href="https://github.com/mikegsCoder">
+        <!-- Moving text -->
         <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=18&pause=200&color=2B63D2&vCenter=true&multiline=true&width=670&height=90&lines=Mihail+Sidov;Software+Engineer+%7C+C%23+Full-Stack+Developer;C%23+%7C+.NET+%7C+MS-SQL+%7C+EF-Core+%7C+ASP.NET+%7C+JS+%7C+ReactJS+%7C+HTML+%7C+CSS" alt="Typing SVG" />
+        <!-- .NET Robot -->
         <img src="https://schwabencode.com/contents/logos/dotnet-robot-250px.png" alt="Robot" title=".NET Robot" width="100" height="100" />
     </a>
 <br/>
 
+<!-- Account stats -->
 <div>
   <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=mikegsCoder&count_private=true&true&hide=issues&show_icons=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikegsCoder&layout=compact" style="margin-left: 0.5rem;" />
 </div>
 
+<!-- Badges -->
 <p align="left" style="margin-top: 0.5rem;">
-    <a href="https://mikegscoder.github.io/">
-        <img src="https://img.shields.io/badge/My Resume-mikegscoder.github.io-red?style=plastic" width="auto" height="20px">
+    <a href="https://mikegscoder.github.io/resume">
+        <img src="https://img.shields.io/badge/Resume-mikegscoder.github.io/resume-red?style=plastic" width="auto" height="20px">
     </a>
     <a href="https://www.linkedin.com/in/mihail-sidov-7a334b24a/" target="_blank" >
         <img src="https://img.shields.io/badge/-LinkedIn-0e76a8? style=plastic&logo=Linkedin&logoColor=white" width="auto" height="20px" margin-top="10px"/>
@@ -34,7 +38,7 @@ https://emojii.org/  -->
 
 ## ℹ️ Personal information: ##
 
-- 📝 My resume as Single Page Application: 👉 [https://mikegscoder.github.io/].
+- 📝 My resume as Single Page Application: 👉 [https://mikegscoder.github.io/resume].
 - 🎓 I completed my education in Software Engineering with C# and JavaScript at Software University [https://softuni.bg/].
 - 👓 I am looking for my new job as a software developer.
 
