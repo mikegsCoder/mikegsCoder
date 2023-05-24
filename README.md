@@ -46,6 +46,8 @@ https://emojii.org/  -->
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Algorithms-with-CSharp&show_owner=false)](https://github.com/mikegsCoder/Algorithms-with-CSharp)
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Travel-Destinations&show_owner=false)](https://github.com/mikegsCoder/Travel-Destinations)
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Interior-Design&show_owner=false)](https://github.com/mikegsCoder/Interior-Design)
+[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Self-Education&show_owner=false)](https://github.com/mikegsCoder/Self-Education)
+[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Task-Manager&show_owner=false)](https://github.com/mikegsCoder/Task-Manager)
 
 ## :hammer_and_wrench: Technologies and Tools: ##  
 
@@ -107,7 +109,8 @@ https://www.svgrepo.com/ -->
 
 |💻 **Courses**|:scroll:| 
 |---|:---:|
-| <a href="https://github.com/mikegsCoder/Self-Education/tree/main/WPF">Windows Presentation Foundation</a> | <a href="javascript:void(0)">⏳ Coming soon!</a> |
+| <a href="https://github.com/mikegsCoder/Self-Education/tree/main/WPF">Windows Presentation Foundation</a> | <a href="https://github.com/mikegsCoder/Task-Manager"> :heavy_check_mark: Self Education</a> |
+| <a href="javascript:void(0)" >MongoDB with C#</a> | <a href="javascript:void(0)">⏳ Coming soon!</a> |
 | <a href="javascript:void(0)" >📕 ⌨ ☕ Coming soon ... 👉 📅 ❔</a> | <a href="javascript:void(0)">🕐</a> |
 | <a href="javascript:void(0)" >📗 ⌨ ☕ Coming soon ... 👉 📅 ❔</a> | <a href="javascript:void(0)">🕜</a> |
 | <a href="javascript:void(0)" >📙 ⌨ ☕ Coming soon ... 👉 📅 ❔</a> | <a href="javascript:void(0)">🕙</a> |
@@ -123,7 +126,6 @@ https://www.svgrepo.com/ -->
 | <a href="javascript:void(0)" >📕 ⌨ ☕ Coming soon ... 👉 📅 ❔</a> | <a href="javascript:void(0)">🕓</a> |
 | <a href="javascript:void(0)" >📗 ⌨ ☕ Coming soon ... 👉 📅 ❔</a> | <a href="javascript:void(0)">🕟</a> |
 | <a href="javascript:void(0)" >📙 ⌨ ☕ Coming soon ... 👉 📅 ❔</a> | <a href="javascript:void(0)">🕔</a> |
-| <a href="javascript:void(0)" >📘 ⌨ ☕ Coming soon ... 👉 📅 ❔</a> | <a href="javascript:void(0)">🕖</a> |
 
 </td></tr> </table>
 
