@@ -4,7 +4,7 @@ https://emojii.org/  -->
 
 <p align="center">
     <a href="https://github.com/mikegsCoder">
-        <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=18&pause=200&color=2B63D2&vCenter=true&multiline=true&width=670&height=90&lines=Mihail+Sidov;Software+Engineer+%7C+C%23+Full-Stack+Developer;C%23+%7C+.NET+%7C+MS-SQL+%7C+EF-Core+%7C+ASP.NET+%7C+JS+%7C+ReactJS+%7C+HTML+%7C+CSS" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=18&pause=200&color=2B63D2&vCenter=true&multiline=true&width=670&height=90&lines=Mihail+Sidov;Software+Engineer+%7C+C%23+Full-Stack+Developer;C%23+%7C+.NET+%7C+MS-SQL+%7C+EF-Core+%7C+WPF+%7C+ASP.NET+%7C+JS+%7C+ReactJS+%7C+HTML+%7C+CSS" alt="Typing SVG" />
         <img src="https://schwabencode.com/contents/logos/dotnet-robot-250px.png" alt="Robot" title=".NET Robot" width="100" height="100" />
     </a>
 <br/>
@@ -63,6 +63,8 @@ https://www.svgrepo.com/ -->
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
     <!-- EF Core -->
     <a href="https://learn.microsoft.com/en-us/ef/core" target="_blank" rel="noreferrer"> <img src="https://www.fixedbuffer.com/wp-content/uploads/2018/09/EFCore.png" alt="efcore" width="40" height="40"/> </a>
+    <!-- WPF -->
+    <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.0f0648ec8ac766a46bf134ac54b0482e?rik=JUJ%2b970czpo3nQ&riu=http%3a%2f%2fweblinkinfosystem.com%2fmedia%2ficons%2fWPFLogo-icon.png&ehk=A%2bXVluMwLcUinTPHahJKBm9k92jq3YHDtpERIzB9M6o%3d&risl=&pid=ImgRaw&r=0" alt="efcore" width="40" height="40"/> </a>
     <!-- Git -->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"    width="40" height="40"/> </a>
     <!-- Postman -->
