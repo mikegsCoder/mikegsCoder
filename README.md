@@ -66,7 +66,7 @@ https://www.svgrepo.com/ -->
     <!-- WPF -->
     <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.0f0648ec8ac766a46bf134ac54b0482e?rik=JUJ%2b970czpo3nQ&riu=http%3a%2f%2fweblinkinfosystem.com%2fmedia%2ficons%2fWPFLogo-icon.png&ehk=A%2bXVluMwLcUinTPHahJKBm9k92jq3YHDtpERIzB9M6o%3d&risl=&pid=ImgRaw&r=0" alt="wpf" width="40" height="40"/> </a>
     <!-- ASP -->
-    <a href="https://learn.microsoft.com/en-us/aspnet/core" target="_blank" rel="noreferrer"> <img src="https://image.pngaaa.com/927/5413927-small.png" alt="asp" width="60" height="40"/> </a>
+    <a href="https://learn.microsoft.com/en-us/aspnet/core" target="_blank" rel="noreferrer"> <img src="https://pics.freeicons.io/uploads/icons/png/14621971553750220-512.png" alt="asp" width="40" height="40"/> </a>
     <!-- Git -->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"    width="40" height="40"/> </a>
     <!-- Postman -->
