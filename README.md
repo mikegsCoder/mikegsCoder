@@ -111,7 +111,7 @@ https://www.svgrepo.com/ -->
 
 </td><td>
 
-|💻 **Courses**|:scroll:| 
+|💻 **Courses**|:dart:| 
 |---|:---:|
 | <a href="https://github.com/mikegsCoder/Self-Education/tree/main/WPF">Windows Presentation Foundation</a> | <a href="https://github.com/mikegsCoder/Task-Manager"> :heavy_check_mark: Self Education</a> |
 | <a href="https://github.com/mikegsCoder/Self-Education/tree/main/MongoDB-with-CSharp" >MongoDB with C#</a> | <a href="javascript:void(0)">⏳ Coming soon!</a> |
