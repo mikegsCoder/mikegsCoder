@@ -4,7 +4,7 @@ https://emojii.org/  -->
 
 <p align="center">
     <a href="https://github.com/mikegsCoder">
-        <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=18&pause=200&color=2B63D2&vCenter=true&multiline=true&width=670&height=90&lines=Mihail+Sidov;Software+Engineer+%7C+C%23+Full-Stack+Developer;C%23+%7C+.NET+%7C+MS-SQL+%7C+EF-Core+%7C+WPF+%7C+ASP.NET+%7C+JS+%7C+ReactJS+%7C+HTML+%7C+CSS" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=18&pause=250&color=2B63D2&vCenter=true&multiline=true&width=670&height=100&lines=Mihail+Sidov;Software+Engineer+%7C+C%23+Full-Stack+Developer;C%23+%7C+.NET+%7C+MS-SQL+%7C+EF-Core+%7C+WPF+%7C+ASP.NET;JS+%7C+Mocha+%7C+MongoDB+%7C+ReactJS+%7C+HTML+%7C+CSS" alt="Typing SVG" />
         <img src="https://schwabencode.com/contents/logos/dotnet-robot-250px.png" alt="Robot" title=".NET Robot" width="100" height="100" />
     </a>
 <br/>
@@ -75,12 +75,14 @@ https://www.svgrepo.com/ -->
     </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     <!-- Mocha -->
     <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha"   width="40" height="40"/> </a>
+    <!-- MongoDB -->
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+    <!-- ReactJS -->
+    </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/> </a>
     <!-- HTML -->
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <!-- CSS -->
     <a href="https://www.w3schools.com/Css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> </a>
-    <!-- ReactJS -->
-    </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/> </a>
 </p>
 
 ## 📚 Education: ##
