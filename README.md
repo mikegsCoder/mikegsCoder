@@ -35,7 +35,7 @@ https://emojii.org/  -->
 ## ℹ️ Personal information: ##
 
 - 📝 My resume as Single Page Application: 👉 [https://mikegscoder.github.io/].
-- 🎓 I completed my education in Software Engineering with C# and JavaScript at Software University [https://softuni.bg/].
+- 🎓 I finished my education in Software Engineering with C# and JavaScript at Software University [https://softuni.bg/].
 - 👓 I am looking for my new job as a software developer.
 
 ## 💻 My Repos: ## 
@@ -118,7 +118,7 @@ https://www.svgrepo.com/ -->
 | <a href="https://github.com/mikegsCoder/Self-Education/tree/main/WPF">Windows Presentation Foundation</a> | <a href="https://github.com/mikegsCoder/Task-Manager"> :heavy_check_mark: Self Education</a> |
 | <a href="https://github.com/mikegsCoder/Self-Education/tree/main/MongoDB-with-CSharp" >MongoDB with C#</a> | <a href="https://github.com/mikegsCoder/Task-Manager"> :heavy_check_mark: Self Education</a> |
 | <a href="https://github.com/mikegsCoder/Self-Education/tree/main/Design-Patterns" >Design Patterns</a> | <a href="https://github.com/mikegsCoder/Self-Education/tree/main/Design-Patterns"> :heavy_check_mark: Self Education</a> |
-| <a href="https://github.com/mikegsCoder/Self-Education/tree/main/JS-Back-End" >JS Back-End</a> | <a href="javascript:void(0)">⏳ Coming soon!</a> |
+| <a href="https://github.com/mikegsCoder/Self-Education/tree/main/JS-Back-End" >JS Back-End</a> | <a href="https://github.com/mikegsCoder/Self-Education/tree/main/JS-Back-End/12.%20Exams/08.%20Shared-Trip"> :heavy_check_mark: Self Education</a> |
 | <a href="javascript:void(0)" >📙 ⌨ ☕ Coming soon ... 👉 📅 ❔</a> | <a href="javascript:void(0)">🕙</a> |
 | <a href="javascript:void(0)" >📘 ⌨ ☕ Coming soon ... 👉 📅 ❔</a> | <a href="javascript:void(0)">🕥</a> |
 | <a href="javascript:void(0)" >📕 ⌨ ☕ Coming soon ... 👉 📅 ❔</a> | <a href="javascript:void(0)">🕚</a> |
@@ -146,4 +146,5 @@ https://www.svgrepo.com/ -->
 
 - ☑️ JS Applications Exam 👉 [<a href="https://mikegscoder.github.io/exams/petCare">Pet Care</a>].
 - ☑️ ASP.NET Fundamentals Exam 👉 [<a href="http://mikegscoderasp-001-site2.atempurl.com/">Book Library</a>].
+- ☑️ JS Back-End Exam 👉 [<a href="https://sharedtrip.onrender.com/">Shared Trip</a>].
 
