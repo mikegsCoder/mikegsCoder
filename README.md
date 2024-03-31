@@ -4,7 +4,7 @@ https://emojii.org/  -->
 
 <p align="center">
     <a href="https://github.com/mikegsCoder">
-        <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=18&pause=250&color=2B63D2&vCenter=true&multiline=true&width=670&height=100&lines=Mihail+Sidov;Software+Engineer+%7C+C%23+Full-Stack+Developer;C%23+%7C+.NET+%7C+MS-SQL+%7C+EF-Core+%7C+WPF+%7C+ASP.NET;JS+%7C+Mocha+%7C+Node.js+%7C+MongoDB+%7C+ReactJS+%7C+HTML+%7C+CSS" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=18&pause=250&color=2B63D2&vCenter=true&multiline=true&width=670&height=100&lines=Mihail+Sidov;Software+Engineer+%7C+C%23+Full-Stack+Developer;C%23+%7C+.NET+%7C+MS-SQL+%7C+EF-Core+%7C+WPF+%7C+ASP.NET;JS+%7C+TS+%7C+Mocha+%7C+Node.js+%7C+MongoDB+%7C+ReactJS+%7C+HTML+%7C+CSS" alt="Typing SVG" />
         <img src="https://schwabencode.com/contents/logos/dotnet-robot-250px.png" alt="Robot" title=".NET Robot" width="100" height="100" />
     </a>
 <br/>
@@ -35,7 +35,6 @@ https://emojii.org/  -->
 ## ℹ️ Personal information: ##
 
 - 📝 My resume as Single Page Application: 👉 [https://mikegscoder.github.io/].
-- 🎓 I finished my education in Software Engineering with C# and JavaScript at Software University [https://softuni.bg/].
 - 👓 I am looking for my new job as a software developer.
 
 ## 💻 My Repos: ## 
@@ -68,13 +67,15 @@ https://www.svgrepo.com/ -->
     <!-- ASP -->
     <a href="https://learn.microsoft.com/en-us/aspnet/core" target="_blank" rel="noreferrer"> <img src="https://pics.freeicons.io/uploads/icons/png/14621971553750220-512.png" alt="asp" width="40" height="40"/> </a>
     <!-- Git -->
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"    width="40" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <!-- Postman -->
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"    alt="postman" width="40" height="40"/> </a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <!-- JS -->
     </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+    <!-- TS -->
+    </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a>
     <!-- Mocha -->
-    <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha"   width="40" height="40"/> </a>
+    <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
     <!-- NodeJS -->
     </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
     <!-- MongoDB -->
@@ -121,7 +122,7 @@ https://www.svgrepo.com/ -->
 | <a href="https://github.com/mikegsCoder/Self-Education/tree/main/MongoDB-with-CSharp" >MongoDB with C#</a> | <a href="https://github.com/mikegsCoder/Task-Manager"> :heavy_check_mark: Self Education</a> |
 | <a href="https://github.com/mikegsCoder/Self-Education/tree/main/Design-Patterns" >Design Patterns</a> | <a href="https://github.com/mikegsCoder/Self-Education/tree/main/Design-Patterns"> :heavy_check_mark: Self Education</a> |
 | <a href="https://github.com/mikegsCoder/Self-Education/tree/main/JS-Back-End" >JS Back-End</a> | <a href="https://github.com/mikegsCoder/Self-Education/tree/main/JS-Back-End/12.%20Exams/08.%20Shared-Trip"> :heavy_check_mark: Self Education</a> |
-| <a href="https://github.com/mikegsCoder/Self-Education/tree/main/TypeScript" >TypeScript</a> | <a href="javascript:void(0)">:hourglass_flowing_sand:  Coming soon!</a> |
+| <a href="https://github.com/mikegsCoder/Self-Education/tree/main/TypeScript" >TypeScript</a> | <a href="https://github.com/mikegsCoder/Self-Education/tree/main/TypeScript/06.%20TypeScript-Problems-and-Solutions"> :heavy_check_mark: Self Education</a> |
 | <a href="javascript:void(0)" >📘 ⌨ ☕ Coming soon ... 👉 📅 ❔</a> | <a href="javascript:void(0)">🕥</a> |
 | <a href="javascript:void(0)" >📕 ⌨ ☕ Coming soon ... 👉 📅 ❔</a> | <a href="javascript:void(0)">🕚</a> |
 | <a href="javascript:void(0)" >📗 ⌨ ☕ Coming soon ... 👉 📅 ❔</a> | <a href="javascript:void(0)">🕦</a> |
