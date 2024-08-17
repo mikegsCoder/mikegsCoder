@@ -34,7 +34,7 @@ https://emojii.org/  -->
 
 ## ℹ️ Personal information: ##
 
-- 📝 My resume as Single Page Application: 👉 [https://mikegscoder.github.io/]
+- 📝 My resume as Single Page Application: 👉 https://mikegscoder.github.io/
 - 💡 You have a project to build and you think I have the skills you need - don't hesitate to contact me 👉 mikegsid@gmail.com
 
 ## 💻 My Repos: ## 
