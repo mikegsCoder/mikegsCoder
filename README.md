@@ -150,7 +150,6 @@ https://www.svgrepo.com/ -->
 
 ## 🌐 Exams and Workshops on the Web: ##
 
-- ☑️ JS Applications Exam 👉 [<a href="https://mikegscoder.github.io/exams/petCare">Pet Care</a>].
-- ☑️ ASP.NET Fundamentals Exam 👉 [<a href="http://mikegscoderasp-001-site2.atempurl.com/">Book Library</a>].
-- ☑️ JS Back-End Exam 👉 [<a href="https://sharedtrip.onrender.com/">Shared Trip</a>].
-
+- ☑️ JS Applications Exam 👉 <a href="https://mikegscoder.github.io/exams/petCare/">Pet Care</a>
+- ☑️ ASP.NET Fundamentals Exam 👉 <a href="http://mikegscoderasp-001-site2.atempurl.com/">Book Library</a>
+- ☑️ JS Back-End Exam 👉 <a href="https://sharedtrip.onrender.com/">Shared Trip</a>
