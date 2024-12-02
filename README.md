@@ -39,15 +39,16 @@ https://emojii.org/  -->
 
 ## 💻 My Repos: ## 
 
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=SoftUni-CSharp-Main-Program&show_owner=false)](https://github.com/mikegsCoder/SoftUni-CSharp-Main-Program)
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=SoftUni-JavaScript-and-Front-End-Courses&show_owner=false)](https://github.com/mikegsCoder/SoftUni-JavaScript-and-Front-End-Courses)
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Data-Structures-with-CSharp&show_owner=false)](https://github.com/mikegsCoder/Data-Structures-with-CSharp)
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Algorithms-with-CSharp&show_owner=false)](https://github.com/mikegsCoder/Algorithms-with-CSharp)
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Travel-Destinations&show_owner=false)](https://github.com/mikegsCoder/Travel-Destinations)
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Interior-Design&show_owner=false)](https://github.com/mikegsCoder/Interior-Design)
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Self-Education&show_owner=false)](https://github.com/mikegsCoder/Self-Education)
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Task-Manager&show_owner=false)](https://github.com/mikegsCoder/Task-Manager)
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Photo-Site&show_owner=false)](https://github.com/mikegsCoder/Photo-Site)
+[![csharp](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=SoftUni-CSharp-Main-Program&show_owner=false)](https://github.com/mikegsCoder/SoftUni-CSharp-Main-Program)
+[![js](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=SoftUni-JavaScript-and-Front-End-Courses&show_owner=false)](https://github.com/mikegsCoder/SoftUni-JavaScript-and-Front-End-Courses)
+[![data-structures](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Data-Structures-with-CSharp&show_owner=false)](https://github.com/mikegsCoder/Data-Structures-with-CSharp)
+[![algorithms](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Algorithms-with-CSharp&show_owner=false)](https://github.com/mikegsCoder/Algorithms-with-CSharp)
+[![travel-destinations](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Travel-Destinations&show_owner=false)](https://github.com/mikegsCoder/Travel-Destinations)
+[![interior-design](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Interior-Design&show_owner=false)](https://github.com/mikegsCoder/Interior-Design)
+[![task-manager](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Task-Manager&show_owner=false)](https://github.com/mikegsCoder/Task-Manager)
+[![photo-site](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Photo-Site&show_owner=false)](https://github.com/mikegsCoder/Photo-Site)
+[![self-education](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Self-Education&show_owner=false)](https://github.com/mikegsCoder/Self-Education)
+[![api](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Minimal.API-vs-Full.API&show_owner=false)](https://github.com/mikegsCoder/Minimal.API-vs-Full.API)
 
 ## :hammer_and_wrench: Technologies and Tools: ##  
 
