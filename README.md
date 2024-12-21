@@ -131,7 +131,7 @@ https://www.svgrepo.com/ -->
 | <a href="https://github.com/mikegsCoder/Self-Education/tree/main/TypeScript" >TypeScript</a> | <a href="https://github.com/mikegsCoder/Self-Education/tree/main/TypeScript/06.%20TypeScript-Problems-and-Solutions"> :heavy_check_mark: Self Education</a> |
 | <a href="https://github.com/mikegsCoder/Self-Education/tree/main/Angular">Angular</a> | <a href="https://github.com/mikegsCoder/Photo-Site"> :heavy_check_mark: Self Education</a> |
 | <a href="https://github.com/mikegsCoder/Self-Education/tree/main/VueJS">VueJS</a> | <a href="https://github.com/mikegsCoder/Photo-Site"> :heavy_check_mark: Self Education</a> |
-| <a href="javascript:void(0)" >📗 ⌨ ☕ Coming soon ... 👉 📅 ❔</a> | <a href="javascript:void(0)">🕦</a> |
+| <a href="https://github.com/mikegsCoder/Self-Education/tree/main/PostgreSQL">PostgreSQL</a> | <a href="javascript:void(0)"> :hourglass_flowing_sand:  Coming soon!</a> |
 | <a href="javascript:void(0)" >📙 ⌨ ☕ Coming soon ... 👉 📅 ❔</a> | <a href="javascript:void(0)">🕛</a> |
 | <a href="javascript:void(0)" >📘 ⌨ ☕ Coming soon ... 👉 📅 ❔</a> | <a href="javascript:void(0)">🕧</a> |
 | <a href="javascript:void(0)" >📕 ⌨ ☕ Coming soon ... 👉 📅 ❔</a> | <a href="javascript:void(0)">🕑</a> |
@@ -144,12 +144,16 @@ https://www.svgrepo.com/ -->
 
 </td></tr> </table>
 
-<!-- | <a href="https://github.com/mikegsCoder/Self-Education/tree/main/WPF">Windows Presentation Foundation</a> | <a href="javascript:void(0)"> :hourglass_flowing_sand:  Coming soon!</a> | -->
+<!-- 
+| <a href="https://github.com/mikegsCoder/Self-Education/tree/main/WPF">Windows Presentation Foundation</a> | <a href="javascript:void(0)"> :hourglass_flowing_sand:  Coming soon!</a> |
+ -->
 
-<!-- ## 🎓 Diplomas: ##
+<!-- 
+## 🎓 Diplomas: ##
 
 - 📜 C# Web Developer 👉 [<a href="https://softuni.bg/certificates/details/153472/e10a1751">Diploma</a>].
-- 📜 C# Full-Stack Developer 👉 [<a href="https://softuni.bg/certificates/details/153420/65aa8f2a">Diploma</a>]. -->
+- 📜 C# Full-Stack Developer 👉 [<a href="https://softuni.bg/certificates/details/153420/65aa8f2a">Diploma</a>]. 
+-->
 
 ## 🌐 Exams and Workshops on the Web: ##
 
