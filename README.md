@@ -25,7 +25,7 @@ https://emojii.org/  -->
         <img src="https://img.shields.io/badge/-mikegsid@gmail.com-blue?style=plastic&logo=gmail&logoColor=white" width="auto" height="20px">
     </a>
     <a href="https://softuni.bg/certificates/details/153472/e10a1751">
-        <img src="https://img.shields.io/badge/📜-Web Developer-important?style=plastic" width="auto" height="20px">
+        <img src="https://img.shields.io/badge/📜-Back End Developer-important?style=plastic" width="auto" height="20px">
     </a>
     <a href="https://softuni.bg/certificates/details/153420/65aa8f2a">
         <img src="https://img.shields.io/badge/📜-Full Stack Developer-important?style=plastic" width="auto" height="20px">
