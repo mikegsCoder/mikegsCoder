@@ -1,6 +1,7 @@
-<!-- https://readme-typing-svg.demolab.com/demo/
+<!-- 
+https://readme-typing-svg.demolab.com/demo/
 https://gist.github.com/rxaviers/7360908
-https://emojii.org/  -->
+-->
 
 <p align="center">
     <a href="https://github.com/mikegsCoder">
@@ -9,20 +10,22 @@ https://emojii.org/  -->
     </a>
 <br/>
 
+<!-- Stats -->
 <div>
   <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=mikegsCoder&count_private=true&true&hide=issues&show_icons=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikegsCoder&layout=compact" style="margin-left: 0.5rem;" />
 </div>
 
+<!-- Badges -->
 <p align="left" style="margin-top: 0.5rem;">
     <a href="https://mikegscoder.github.io/">
         <img src="https://img.shields.io/badge/My Resume-mikegscoder.github.io-red?style=plastic" width="auto" height="20px">
     </a>
     <a href="https://www.linkedin.com/in/mihail-sidov-7a334b24a/" target="_blank" >
-        <img src="https://img.shields.io/badge/-LinkedIn-0e76a8? style=plastic&logo=Linkedin&logoColor=white" width="auto" height="20px" margin-top="10px"/>
+        <img src="https://img.shields.io/badge/in-LinkedIn-blue?style=plastic" width="auto" height="20px" margin-top="10px"/>
     </a>
     <a href="mailto:mikegsid@gmail.com">
-        <img src="https://img.shields.io/badge/-mikegsid@gmail.com-blue?style=plastic&logo=gmail&logoColor=white" width="auto" height="20px">
+        <img src="https://img.shields.io/badge/📧-mikegsid@gmail.com-blue?style=plastic" width="auto" height="20px">
     </a>
     <a href="https://softuni.bg/certificates/details/153472/e10a1751">
         <img src="https://img.shields.io/badge/📜-Back End Developer-important?style=plastic" width="auto" height="20px">
@@ -34,7 +37,7 @@ https://emojii.org/  -->
 
 ## ℹ️ Personal information: ##
 
-- 📝 My resume as Single Page Application 👉 https://mikegscoder.github.io/
+- 📃 My resume as Single Page Application 👉 https://mikegscoder.github.io/
 - 💡 You have a project to build and you think I have the skills you need - don't hesitate to contact me 👉 mikegsid@gmail.com
 
 ## 💻 My Repos: ## 
