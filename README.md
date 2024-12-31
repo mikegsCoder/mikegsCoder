@@ -16,7 +16,7 @@ https://gist.github.com/rxaviers/7360908
 <div>
   <div style="display: flex; flex-direction: row; align-items: center;">
     <img height="160" allign="left" 
-    src="https://github-readme-stats.vercel.app/api?username=mikegsCoder&count_private=true&true& hide=issues&show_icons=true" />
+    src="https://github-readme-stats.vercel.app/api?username=mikegsCoder&count_private=true&true&hide=issues&show_icons=true" />
     <img height="160" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikegsCoder&layout=compact" />
   </div>
