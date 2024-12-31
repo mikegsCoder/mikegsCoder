@@ -3,6 +3,7 @@ https://readme-typing-svg.demolab.com/demo/
 https://gist.github.com/rxaviers/7360908
 -->
 
+<!-- Typing SVG + .NET Robot -->
 <p align="center">
     <a href="https://github.com/mikegsCoder">
         <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=18&pause=250&color=2B63D2&vCenter=true&multiline=true&width=670&height=100&lines=Mihail+Sidov;Software+Engineer+%7C+C%23+Full-Stack+Developer;C%23+%7C+.NET+%7C+MS-SQL+%7C+EF-Core+%7C+WPF+%7C+ASP.NET;JS+%7C+TS+%7C+Mocha+%7C+Node.js+%7C+MongoDB+%7C+ReactJS+%7C+Angular+%7C+VueJS+%7C+HTML+%7C+CSS" alt="Typing SVG" />
@@ -14,6 +15,8 @@ https://gist.github.com/rxaviers/7360908
 <div>
   <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=mikegsCoder&count_private=true&true&hide=issues&show_icons=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikegsCoder&layout=compact" style="margin-left: 0.5rem;" />
+  <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikegsCoder&theme=github-light&hide_border=false" style="border-radius: 6px;" />
 </div>
 
 <!-- Badges -->
@@ -55,9 +58,12 @@ https://gist.github.com/rxaviers/7360908
 
 ## :hammer_and_wrench: Technologies and Tools: ##  
 
-<!-- https://github.com/devicons
-https://www.svgrepo.com/ -->
+<!-- 
+https://github.com/devicons
+https://www.svgrepo.com/ 
+-->
 
+<!-- Technologies icons -->
 <p align="left">
     <!-- C# -->
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
