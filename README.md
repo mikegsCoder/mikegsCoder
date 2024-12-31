@@ -14,11 +14,11 @@ https://gist.github.com/rxaviers/7360908
 
 <!-- Stats -->
 <div>
-  <div style="display: flex; flex-direction: row; align-items: center; margin-left: 2rem;">
-    <img height="160" allign="left" 
+  <div style="width: 100%; display: flex; flex-direction: row; align-items: center;">
+    <img height="160" 
     src="https://github-readme-stats.vercel.app/api?username=mikegsCoder&count_private=true&true&hide=issues&show_icons=true" />
     <img height="160" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikegsCoder&layout=compact" style="margin-left: 2rem;"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikegsCoder&layout=compact" />
   </div>
   <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikegsCoder&theme=github-light&hide_border=false" style="border-radius: 6px;" />
