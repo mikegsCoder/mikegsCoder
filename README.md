@@ -39,15 +39,19 @@ https://gist.github.com/rxaviers/7360908
     <a href="https://mikegscoder.github.io/">
         <img src="https://img.shields.io/badge/📃-My Resume as SPA-red?style=plastic" width="auto" height="20px">
     </a>
+    &emsp;
     <a href="https://www.linkedin.com/in/mihail-sidov-7a334b24a/" target="_blank" >
         <img src="https://img.shields.io/badge/in-LinkedIn-blue?style=plastic" width="auto" height="20px" margin-top="10px"/>
     </a>
+    &emsp;
     <a href="mailto:mikegsid@gmail.com">
         <img src="https://img.shields.io/badge/📧-mikegsid@gmail.com-blue?style=plastic" width="auto" height="20px">
     </a>
+    &emsp;
     <a href="https://softuni.bg/certificates/details/153472/e10a1751">
         <img src="https://img.shields.io/badge/📜-Back End Developer-important?style=plastic" width="auto" height="20px">
     </a>
+    &emsp;
     <a href="https://softuni.bg/certificates/details/153420/65aa8f2a">
         <img src="https://img.shields.io/badge/📜-Full Stack Developer-important?style=plastic" width="auto" height="20px">
     </a>
