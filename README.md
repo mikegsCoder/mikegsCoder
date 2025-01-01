@@ -19,7 +19,7 @@ https://gist.github.com/rxaviers/7360908
 <div>
   &emsp;
   <div>
-    &emsp;&emsp;
+    &emsp;&emsp;&emsp;
     <img height="160"  
     src="https://github-readme-stats.vercel.app/api?username=mikegsCoder&count_private=true&true&hide=issues&show_icons=true" style="margin: 0 2rem;" />
     &emsp;&emsp;
