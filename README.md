@@ -3,6 +3,8 @@ https://readme-typing-svg.demolab.com/demo/
 https://gist.github.com/rxaviers/7360908
 -->
 
+<!-- https://en.wikipedia.org/wiki/Whitespace_character#Unicode -->
+
 <!-- Typing SVG + .NET Robot -->
 <p allign="center">
     &emsp;
@@ -30,10 +32,12 @@ https://gist.github.com/rxaviers/7360908
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikegsCoder&theme=github-light&hide_border=false" style="border-radius: 6px;" />
 </div>
 
+## ℹ️ Personal information: ##
+
 <!-- Badges -->
 <p allign="left" style="margin-top: 0.5rem;">
     <a href="https://mikegscoder.github.io/">
-        <img src="https://img.shields.io/badge/My Resume-mikegscoder.github.io-red?style=plastic" width="auto" height="20px">
+        <img src="https://img.shields.io/badge/📃-My Resume as SPA-red?style=plastic" width="auto" height="20px">
     </a>
     <a href="https://www.linkedin.com/in/mihail-sidov-7a334b24a/" target="_blank" >
         <img src="https://img.shields.io/badge/in-LinkedIn-blue?style=plastic" width="auto" height="20px" margin-top="10px"/>
@@ -49,9 +53,6 @@ https://gist.github.com/rxaviers/7360908
     </a>
 </p>
 
-## ℹ️ Personal information: ##
-
-- 📃 My resume as Single Page Application 👉 https://mikegscoder.github.io/
 - 💡 You have a project to build and you think I have the skills you need - don't hesitate to contact me 👉 mikegsid@gmail.com
 
 ## 💻 My Repos: ## 
