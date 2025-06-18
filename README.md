@@ -71,6 +71,7 @@ https://gist.github.com/rxaviers/7360908
 [![photo-site](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Photo-Site&show_owner=false)](https://github.com/mikegsCoder/Photo-Site)
 [![self-education](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Self-Education&show_owner=false)](https://github.com/mikegsCoder/Self-Education)
 [![api](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Minimal.API-vs-Full.API&show_owner=false)](https://github.com/mikegsCoder/Minimal.API-vs-Full.API)
+[![weather-app](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Weather-App&show_owner=false)](https://github.com/mikegsCoder/Weather-App)
 
 ## :hammer_and_wrench: Technologies and Tools: ##  
 
