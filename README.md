@@ -19,13 +19,12 @@ https://gist.github.com/rxaviers/7360908
 
 <!-- Stats -->
 <div>
-  &emsp;
   <div>
-    &emsp;&emsp;&emsp;
-    <img height="140"  
-    src="https://github-readme-stats.vercel.app/api?username=mikegsCoder&count_private=true&true&hide=issues&show_icons=true" style="margin: 0 0.2rem;" />
-    &emsp;&emsp;
-    <img height="140" 
+    &emsp;
+    <img height="160"  
+    src="https://github-readme-stats.vercel.app/api?username=mikegsCoder&count_private=true&true&hide=issues&show_icons=true" />
+    &emsp;
+    <img height="160" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikegsCoder&layout=compact" />
   </div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikegsCoder&theme=github-light&hide_border=false" style="border-radius: 6px;" />
