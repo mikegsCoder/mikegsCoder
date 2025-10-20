@@ -92,7 +92,7 @@ https://www.svgrepo.com/
     <!-- EF Core -->
     <a href="https://learn.microsoft.com/en-us/ef/core" target="_blank" rel="noreferrer"> <img src="https://www.fixedbuffer.com/wp-content/uploads/2018/09/EFCore.png" alt="efcore" width="40" height="40"/> </a>
     <!-- WPF -->
-    <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.0f0648ec8ac766a46bf134ac54b0482e?rik=JUJ%2b970czpo3nQ&riu=http%3a%2f%2fweblinkinfosystem.com%2fmedia%2ficons%2fWPFLogo-icon.png&ehk=A%2bXVluMwLcUinTPHahJKBm9k92jq3YHDtpERIzB9M6o%3d&risl=&pid=ImgRaw&r=0" alt="wpf" width="40" height="40"/> </a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf" target="_blank" rel="noreferrer"> <img src="https://www.ambient-it.net/wp-content/uploads/2016/04/wpf-logo-175.png.webp" alt="wpf" width="40" height="40"/> </a>
     <!-- ASP -->
     <a href="https://learn.microsoft.com/en-us/aspnet/core" target="_blank" rel="noreferrer"> <img src="https://pics.freeicons.io/uploads/icons/png/14621971553750220-512.png" alt="asp" width="40" height="40"/> </a>
     <!-- Git -->
