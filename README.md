@@ -18,6 +18,10 @@ https://gist.github.com/rxaviers/7360908
 <br/>
 
 <!-- Stats -->
+<details>
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
 <div>
   <div>
     <!-- &emsp; -->
@@ -32,6 +36,7 @@ https://gist.github.com/rxaviers/7360908
   </div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikegsCoder&theme=github-light&hide_border=false" style="border-radius: 6px;" />
 </div>
+</details>
 
 ## ℹ️ Personal information: ##
 
@@ -59,21 +64,6 @@ https://gist.github.com/rxaviers/7360908
 </p>
 
 - 💡 You have a project to build and you think I have the skills you need - don't hesitate to contact me 👉 mikegsid@gmail.com
-
-## 💻 My Repos: ## 
-
-[![csharp](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=SoftUni-CSharp-Main-Program&show_owner=false)](https://github.com/mikegsCoder/SoftUni-CSharp-Main-Program)
-[![js](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=SoftUni-JavaScript-and-Front-End-Courses&show_owner=false)](https://github.com/mikegsCoder/SoftUni-JavaScript-and-Front-End-Courses)
-[![data-structures](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Data-Structures-with-CSharp&show_owner=false)](https://github.com/mikegsCoder/Data-Structures-with-CSharp)
-[![algorithms](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Algorithms-with-CSharp&show_owner=false)](https://github.com/mikegsCoder/Algorithms-with-CSharp)
-[![travel-destinations](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Travel-Destinations&show_owner=false)](https://github.com/mikegsCoder/Travel-Destinations)
-[![interior-design](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Interior-Design&show_owner=false)](https://github.com/mikegsCoder/Interior-Design)
-[![task-manager](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Task-Manager&show_owner=false)](https://github.com/mikegsCoder/Task-Manager)
-[![photo-site](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Photo-Site&show_owner=false)](https://github.com/mikegsCoder/Photo-Site)
-[![self-education](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Self-Education&show_owner=false)](https://github.com/mikegsCoder/Self-Education)
-[![api](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Minimal.API-vs-Full.API&show_owner=false)](https://github.com/mikegsCoder/Minimal.API-vs-Full.API)
-[![weather-app](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=Weather-App&show_owner=false)](https://github.com/mikegsCoder/Weather-App)
-[![n8n-chat](https://github-readme-stats.vercel.app/api/pin/?username=mikegsCoder&repo=n8n-Webhook-Chat&show_owner=false)](https://github.com/mikegsCoder/n8n-Webhook-Chat)
 
 ## :hammer_and_wrench: Technologies and Tools: ##  
 
