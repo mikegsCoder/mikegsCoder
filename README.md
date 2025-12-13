@@ -19,7 +19,7 @@ https://gist.github.com/rxaviers/7360908
 
 <!-- Stats -->
 <details>
-<summary>📈 Stats</summary>
+<summary><h2>📈 Profile Statistics: &#x2195;&#xFE0F;</h2></summary>
 <br>
 My Github Stats
 <div>
