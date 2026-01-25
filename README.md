@@ -10,7 +10,7 @@ https://gist.github.com/rxaviers/7360908
     &emsp;
     <a href="https://github.com/mikegsCoder">
         &emsp;
-        <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=18&pause=250&color=2B63D2&vCenter=true&multiline=true&width=670&height=100&lines=Mihail+Sidov;Software+Engineer+%7C+C%23+Full-Stack+Developer;C%23+%7C+.NET+%7C+MS-SQL+%7C+PostgreSQL+%7C+EF-Core+%7C+WPF+%7C+ASP.NET;JS+%7C+TS+%7C+Mocha+%7C+Node.js+%7C+MongoDB+%7C+ReactJS+%7C+Angular+%7C+VueJS+%7C+HTML+%7C+CSS" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=18&pause=250&color=2B63D2&vCenter=true&multiline=true&width=670&height=100&lines=Mihail+Sidov;Software+Engineer+%7C+C%23+Full-Stack+Developer;C%23+%7C+.NET+%7C+MS-SQL+%7C+PostgreSQL+%7C+EF-Core+%7C+WPF+%7C+MAUI+%7C+ASP.NET;JS+%7C+TS+%7C+Mocha+%7C+Node.js+%7C+MongoDB+%7C+ReactJS+%7C+Angular+%7C+VueJS+%7C+HTML+%7C+CSS" alt="Typing SVG" />
         &emsp;
         <img src="https://dotnetfoundation.org/images/default-source/call-to-action-images/dot-bot.png?sfvrsn=8528f412_1" alt="Robot" title=".NET Robot" width="100" height="100" />
     </a>
@@ -86,6 +86,8 @@ https://www.svgrepo.com/
     <a href="https://learn.microsoft.com/en-us/ef/core" target="_blank" rel="noreferrer"> <img src="https://www.fixedbuffer.com/wp-content/uploads/2018/09/EFCore.png" alt="efcore" width="40" height="40"/> </a>
     <!-- WPF -->
     <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf" target="_blank" rel="noreferrer"> <img src="https://www.ambient-it.net/wp-content/uploads/2016/04/wpf-logo-175.png.webp" alt="wpf" width="40" height="40"/> </a>
+    <!-- MAUI -->
+    <a href="https://learn.microsoft.com/en-us/dotnet/maui" target="_blank" rel="noreferrer"> <img src="https://trivenisiteasset.blob.core.windows.net/trivenisiteasset-container/2025/01/dot-net-maui.png" alt="maui" width="40" height="40"/> </a>
     <!-- ASP -->
     <a href="https://learn.microsoft.com/en-us/aspnet/core" target="_blank" rel="noreferrer"> <img src="https://pics.freeicons.io/uploads/icons/png/14621971553750220-512.png" alt="asp" width="40" height="40"/> </a>
     <!-- Git -->
