@@ -6,7 +6,7 @@ https://gist.github.com/rxaviers/7360908
 <!-- https://en.wikipedia.org/wiki/Whitespace_character#Unicode -->
 
 <!-- Typing SVG + .NET Robot -->
-<div allign="center">
+<div allign="center" style="display:flex; gap:10px;>
     <!-- &emsp; -->
     <a href="https://github.com/mikegsCoder">
         <!-- &emsp; -->
@@ -41,7 +41,7 @@ My Github Stats
 ## ℹ️ Personal information: ##
 
 <!-- Badges -->
-<p allign="left" style="margin-top: 0.5rem;">
+<p align="left" style="margin-top: 0.5rem;">
     <a href="https://mikegscoder.github.io/">
         <img src="https://img.shields.io/badge/📃-My Resume as SPA-red?style=plastic" width="auto" height="20px">
     </a>
