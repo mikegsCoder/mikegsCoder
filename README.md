@@ -6,9 +6,9 @@ https://gist.github.com/rxaviers/7360908
 <!-- https://en.wikipedia.org/wiki/Whitespace_character#Unicode -->
 
 <!-- Typing SVG + .NET Robot -->
-<div allign="center" style="display:flex; gap:10px;>
+<div allign="center">
     <!-- &emsp; -->
-    <a href="https://github.com/mikegsCoder">
+    <a href="https://github.com/mikegsCoder" style="display:flex; gap:10px;">
         <!-- &emsp; -->
         <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=18&pause=250&color=2B63D2&vCenter=true&multiline=true&width=670&height=100&lines=Mihail+Sidov;Software+Engineer+%7C+C%23+Full-Stack+Developer;C%23+%7C+.NET+%7C+MS-SQL+%7C+PostgreSQL+%7C+EF-Core+%7C+WPF+%7C+MAUI+%7C+ASP.NET;JS+%7C+TS+%7C+Mocha+%7C+Node.js+%7C+MongoDB+%7C+ReactJS+%7C+Angular+%7C+VueJS+%7C+HTML+%7C+CSS" alt="Typing SVG" />
         <!-- &emsp; -->
@@ -41,7 +41,7 @@ My Github Stats
 ## ℹ️ Personal information: ##
 
 <!-- Badges -->
-<p align="left" style="margin-top: 0.5rem;">
+<p allign="left" style="margin-top: 0.5rem;">
     <a href="https://mikegscoder.github.io/">
         <img src="https://img.shields.io/badge/📃-My Resume as SPA-red?style=plastic" width="auto" height="20px">
     </a>
