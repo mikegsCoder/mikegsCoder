@@ -10,9 +10,9 @@ https://gist.github.com/rxaviers/7360908
     <!-- &emsp; -->
     <a href="https://github.com/mikegsCoder" style="display:flex; gap:10px;">
         <!-- &emsp; -->
-        <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=18&pause=250&color=2B63D2&vCenter=true&multiline=true&width=670&height=100&lines=Mihail+Sidov;Software+Engineer+%7C+C%23+Full-Stack+Developer;C%23+%7C+.NET+%7C+MS-SQL+%7C+PostgreSQL+%7C+EF-Core+%7C+WPF+%7C+MAUI+%7C+ASP.NET;JS+%7C+TS+%7C+Mocha+%7C+Node.js+%7C+MongoDB+%7C+ReactJS+%7C+Angular+%7C+VueJS+%7C+HTML+%7C+CSS" alt="Typing SVG" style="display:inline-block;"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=18&pause=250&color=2B63D2&vCenter=true&multiline=true&width=670&height=100&lines=Mihail+Sidov;Software+Engineer+%7C+C%23+Full-Stack+Developer;C%23+%7C+.NET+%7C+MS-SQL+%7C+PostgreSQL+%7C+EF-Core+%7C+WPF+%7C+MAUI+%7C+ASP.NET;JS+%7C+TS+%7C+Mocha+%7C+Node.js+%7C+MongoDB+%7C+ReactJS+%7C+Angular+%7C+VueJS+%7C+HTML+%7C+CSS" alt="Typing SVG" />
         <!-- &emsp; -->
-        <img src="https://dotnetfoundation.org/images/default-source/call-to-action-images/dot-bot.png?sfvrsn=8528f412_1" alt="Robot" title=".NET Robot" width="100" height="100" style="display:inline-block;"/>
+        <img src="https://dotnetfoundation.org/images/default-source/call-to-action-images/dot-bot.png?sfvrsn=8528f412_1" alt="Robot" title=".NET Robot" width="100" height="100" />
     </a>
 </div>
 <br/>
@@ -73,7 +73,7 @@ https://www.svgrepo.com/
 -->
 
 <!-- Technologies icons -->
-<p allign="left">
+<p allign="left" style="display:flex; gap:10px;">
     <!-- C# -->
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
     <!-- .NET -->
