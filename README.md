@@ -6,7 +6,7 @@ https://gist.github.com/rxaviers/7360908
 <!-- https://en.wikipedia.org/wiki/Whitespace_character#Unicode -->
 
 <!-- Typing SVG + .NET Robot -->
-<p allign="center">
+<span allign="center">
     <!-- &emsp; -->
     <a href="https://github.com/mikegsCoder">
         <!-- &emsp; -->
@@ -14,7 +14,7 @@ https://gist.github.com/rxaviers/7360908
         <!-- &emsp; -->
         <img src="https://dotnetfoundation.org/images/default-source/call-to-action-images/dot-bot.png?sfvrsn=8528f412_1" alt="Robot" title=".NET Robot" width="100" height="100" />
     </a>
-</p>
+</span>
 <br/>
 
 <!-- Stats -->
