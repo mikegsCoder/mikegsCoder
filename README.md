@@ -62,6 +62,72 @@ My Github Stats
 
 - 💡 You have a project to build and you think I have the skills you need - don't hesitate to contact me 👉 mikegsid@gmail.com
 
+<!-- Featured repos -->
+## 📌 Featured Repos:
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/mikegsCoder/SoftUni-CSharp-Main-Program">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mikegsCoder&repo=SoftUni-CSharp-Main-Program" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/mikegsCoder/SoftUni-JavaScript-and-Front-End-Courses">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mikegsCoder&repo=SoftUni-JavaScript-and-Front-End-Courses" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/mikegsCoder/Algorithms-with-CSharp">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mikegsCoder&repo=Algorithms-with-CSharp" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/mikegsCoder/Data-Structures-with-CSharp">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mikegsCoder&repo=Data-Structures-with-CSharp" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/mikegsCoder/Interior-Design">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mikegsCoder&repo=Interior-Design" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/mikegsCoder/Travel-Destinations">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mikegsCoder&repo=Travel-Destinations" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/mikegsCoder/Task-Manager">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mikegsCoder&repo=Task-Manager" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/mikegsCoder/Photo-Site">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mikegsCoder&repo=Photo-Site" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/mikegsCoder/Weather-App">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mikegsCoder&repo=Weather-App" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/mikegsCoder/n8n-Webhook-Chat">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mikegsCoder&repo=n8n-Webhook-Chat" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <!-- 
 https://github.com/devicons
 https://www.svgrepo.com/ 
