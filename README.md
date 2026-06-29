@@ -214,7 +214,7 @@ https://www.svgrepo.com/
 | <a href="https://github.com/mikegsCoder/Self-Education/tree/main/VueJS">VueJS</a> | <a href="https://github.com/mikegsCoder/Photo-Site"> :heavy_check_mark: Self Education</a> |
 | <a href="https://github.com/mikegsCoder/Self-Education/tree/main/PostgreSQL">PostgreSQL</a> | <a href="https://github.com/mikegsCoder/Self-Education/tree/main/PostgreSQL/08.%20Exams"> :heavy_check_mark: Self Education</a> |
 | <a href="https://github.com/mikegsCoder/Self-Education/tree/main/MAUI">.NET MAUI</a> | <a href="https://github.com/mikegsCoder/Weather-App/tree/main/WeatherApp-with-MAUI"> :heavy_check_mark: Self Education</a> |
-| <a href="https://github.com/mikegsCoder/Self-Education/tree/main/Blazor">Blazor</a> | <a href="javascript:void(0)"> :hourglass_flowing_sand:  Coming soon!</a> |
+| <a href="https://github.com/mikegsCoder/Self-Education/tree/main/Blazor">Blazor</a> | <a href="https://github.com/mikegsCoder/Weather-App/tree/main/WeatherApp-with-Blazor"> :heavy_check_mark: Self Education</a> |
 | <a href="javascript:void(0)" >📕 ⌨ ☕ Coming soon ... 👉 📅 ❔</a> | <a href="javascript:void(0)">🕑</a> |
 | <a href="javascript:void(0)" >📗 ⌨ ☕ Coming soon ... 👉 📅 ❔</a> | <a href="javascript:void(0)">🕝</a> |
 | <a href="javascript:void(0)" >📙 ⌨ ☕ Coming soon ... 👉 📅 ❔</a> | <a href="javascript:void(0)">🕒</a> |
