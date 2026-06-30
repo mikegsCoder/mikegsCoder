@@ -141,6 +141,7 @@ https://www.svgrepo.com/
 [![C#](https://img.shields.io/badge/C%23-239120?style=plastic&logo=csharp&logoColor=white)](https://www.w3schools.com/cs/)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=plastic&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/aspnet/core)
+[![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=plastic&logo=blazor&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 [![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=plastic&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/ef/core)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 
