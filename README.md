@@ -63,7 +63,7 @@ My Github Stats
 - 💡 You have a project to build and you think I have the skills you need - don't hesitate to contact me 👉 mikegsid@gmail.com
 
 <!-- Featured repos -->
-## 📌 Featured Repos:
+<!-- ## 📌 Featured Repos:
 
 <table>
   <tr>
@@ -126,7 +126,7 @@ My Github Stats
       </a>
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- 
 https://github.com/devicons
