@@ -31,7 +31,7 @@ My Github Stats
     <img height="160" 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mikegscoder&theme=default" />
   </div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikegsCoder&theme=github-light&hide_border=false" style="border-radius: 6px;" />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikegsCoder&theme=github-light&hide_border=false" style="border-radius: 6px;" /> -->
 </div>
 </details>
 
